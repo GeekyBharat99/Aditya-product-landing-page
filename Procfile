@@ -1,0 +1,1 @@
+web: gunicorn adityaproject.wsgi --log-file -
